@@ -1,0 +1,18 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Private credentials
+.env
+.env.*
+!.env.example
+
+# Exclude only the large 186 MB data file
+data/metadata/discovery_all/Literature_Retrieval_Results.csv
+
+# System files
+.DS_Store
+Thumbs.db

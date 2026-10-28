@@ -1,0 +1,35 @@
+"""Shared Chapter 13 title/abstract term screens; hints are not verification."""
+CATEGORIES=['A_FOUNDATIONAL','B_MAJOR_REVIEW','C_AI_TARGET_PREDICTION','D_EXPERIMENTAL_MECHANISM','E_PERTURBATION_CONTEXT','F_GENERAL_METHOD_OR_PERSPECTIVE']
+SIGNAL_TERMS={
+'T1_TARGET_RANKING':['target ranking','target fishing','target prediction','chemical similarity','fingerprint'],
+'T2_PAIRWISE_DTI':['drug-target interaction','drug target interaction','protein-ligand','compound-protein','binding affinity prediction'],
+'T3_PERTURBATION_INFERENCE':['perturbation','drug response','connectivity map','l1000','viability profile','chemogenomic'],
+'T4_EVIDENCE_INTEGRATION':['multi-omics','multimodal','data integration','fusion','consensus model','ensemble'],
+'T5_EXPLANATION':['explainable','interpretability','attention map','feature attribution','pocket enrichment'],
+'T6_BIOCHEMICAL_BINDING':['surface plasmon resonance','microscale thermophoresis','binding assay','dissociation constant','enzyme inhibition'],
+'T7_CELL_ENGAGEMENT':['target engagement','cetsa','thermal shift','dart','cellular engagement','ceteam'],
+'T8_FUNCTIONAL_CONTRIBUTION':['knockdown','knockout','rescue','binding-resistant','functional contribution','covalent modification'],
+'T9_EXTERNAL_EVALUATION':['external validation','domain shift','generalizability','cold start','prospective','benchmark','training set'],
+'T10_ASSAY_CONFOUNDING':['aggregation','assay interference','luciferase','false positive','promiscuous inhibitor'],
+'T11_NEGATIVE_DISCORDANT':['negative result','discordant','no detectable binding','off-target','unsuccessful'],
+'T12_NATURAL_PRODUCT_CONTEXT':['natural product','phytochemical','plant-derived','ginsenoside','celastrol','nimbolide','acevaltrate','eupalinolide'],
+}
+SUBSECTION_HINTS={
+'2.1':['target ranking','activity label','candidate target','binding affinity'],
+'2.2':['chemical similarity','fingerprint','transfer learning','deep learning','ligand','protein sequence'],
+'2.3':['perturbation','l1000','connectivity map','multi-omics','integration','latent factor'],
+'2.4':['attention','interpretability','feature attribution','binding pocket'],
+'2.5':['target engagement','cetsa','dart','lip-quant','chemoproteomic','knockdown'],
+'2.6':['reproducibility','data availability','software','benchmark','false positive'],
+'3.1':['target identification','evidence provenance','validation','direct binding'],
+'3.2':['roc-auc','auroc','cold start','benchmark','external validation','precision recall'],
+'3.3':['binding assay','enzyme inhibition','dissociation constant','biolayer interferometry'],
+'3.4':['functional contribution','rescue','knockdown','knockout','ferroptosis'],
+'3.5':['discordant','attention','integration','data fusion','ablation'],
+'3.6':['uncertainty','confidence interval','performance metrics','denominator'],
+'4.1':['target prioritization','target prioritisation','similarity-based','ensemble'],
+'4.2':['generalizability','domain shift','off-target','causality'],
+'4.3':['assay interference','aggregation','compound purity','exposure'],
+'4.4':['orthogonal','rescue','follow-up experiment','next experiment'],
+'4.5':['prospective','blinded','temporal','external validation'],
+}

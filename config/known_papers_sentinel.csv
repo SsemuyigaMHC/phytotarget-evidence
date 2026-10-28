@@ -1,0 +1,16 @@
+Study,PMID,DOI,Scope,Registry status
+STarFish (Cockroft 2019),31589422,10.1021/acs.jcim.9b00489,Natural-product prediction,PubMed confirmed
+Qiang 2021 transfer learning,33924898,10.3390/ijms22094632,Natural-product prediction,PubMed confirmed
+Liang 2022 NP target prediction,36007240,10.1093/bib/bbac359,Natural-product prediction,PubMed confirmed
+Periwal 2022 biochemical follow-up,35468126,10.1371/journal.pcbi.1010029,Phytochemical-related follow-up,PubMed confirmed
+AI-Bind (Chatterjee 2023),37031187,10.1038/s41467-023-37572-z,General DTI comparator,PubMed confirmed
+DTI-Voodoo (Hinnerichs 2021),34320178,10.1093/bioinformatics/btab548,Integration comparator,PubMed confirmed
+DeepTarget (Sinha 2025),41193619,10.1038/s41698-025-01111-4,Perturbation comparator,PubMed confirmed
+CeTEAM (Valerie 2024),39643609,10.1038/s41467-024-54415-7,Cellular engagement comparator,PubMed confirmed
+Nimbolide-RNF114 (Spradlin 2019),31209351,10.1038/s41589-019-0304-8,Natural-product mechanistic evidence,PubMed confirmed
+Acevaltrate (Yu 2025),40619432,10.1038/s41392-025-02296-7,Natural-product mechanistic evidence,PubMed confirmed
+Eupalinolide B-PRDX4 (Zhuge 2026),41898276,10.3390/biomedicines14030629,Natural-product mechanistic evidence,PubMed confirmed
+Ginsenoside profiling (Kim 2026),42716492,10.1093/bib/bbag483,Natural-product mechanistic evidence,PubMed confirmed
+ScopeDTI (Chen 2025),41390462,10.1038/s41467-025-66311-9,General DTI plus natural-product follow-up,PubMed confirmed
+Gaudichaudione H (Shi 2025),39840687,10.1002/advs.202411131,Natural-product mechanistic evidence,PubMed confirmed
+DrugBAN (Bai 2023),,10.1038/s42256-022-00605-1,General DTI comparator,PubMed indexing not independently established
